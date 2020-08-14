@@ -1,0 +1,22 @@
+nav{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 20px;
+    background-color: white;
+}
+
+.navbar-link{
+    list-style-type: none;
+    float: right;
+    text-align: center;
+    margin: 10px;
+}
+
+form{
+    margin-top: auto;
+}
+
+#img{
+    
+}

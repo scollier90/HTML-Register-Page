@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_Boolean_Challenges\obj\Debug\06_Boolean_Challenges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_Boolean_Challenges\obj\Debug\06_Boolean_Challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_Boolean_Challenges\bin\Debug\06_Boolean_Challenges.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_Boolean_Challenges\bin\Debug\06_Boolean_Challenges.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_Boolean_Challenges\bin\Debug\06_Boolean_Challenges.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_Boolean_Challenges\obj\Debug\06_Boolean_Challenges.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_Boolean_Challenges\obj\Debug\06_Boolean_Challenges.pdb

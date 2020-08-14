@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\IntroToCSharp\1 - Variables\1 - Variables\obj\Debug\1 - Variables.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\IntroToCSharp\1 - Variables\1 - Variables\obj\Debug\1 - Variables.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\IntroToCSharp\1 - Variables\1 - Variables\bin\Debug\1 - Variables.exe.config
+C:\ElevenFiftyProjects\IntroToCSharp\1 - Variables\1 - Variables\bin\Debug\1 - Variables.exe
+C:\ElevenFiftyProjects\IntroToCSharp\1 - Variables\1 - Variables\bin\Debug\1 - Variables.pdb
+C:\ElevenFiftyProjects\IntroToCSharp\1 - Variables\1 - Variables\obj\Debug\1 - Variables.exe
+C:\ElevenFiftyProjects\IntroToCSharp\1 - Variables\1 - Variables\obj\Debug\1 - Variables.pdb

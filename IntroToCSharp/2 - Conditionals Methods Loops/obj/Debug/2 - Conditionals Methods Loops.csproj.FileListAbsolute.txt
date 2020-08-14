@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\IntroToCSharp\2 - Conditionals Methods Loops\bin\Debug\2 - Conditionals Methods Loops.exe.config
+C:\ElevenFiftyProjects\IntroToCSharp\2 - Conditionals Methods Loops\bin\Debug\2 - Conditionals Methods Loops.exe
+C:\ElevenFiftyProjects\IntroToCSharp\2 - Conditionals Methods Loops\bin\Debug\2 - Conditionals Methods Loops.pdb
+C:\ElevenFiftyProjects\IntroToCSharp\2 - Conditionals Methods Loops\obj\Debug\2 - Conditionals Methods Loops.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\IntroToCSharp\2 - Conditionals Methods Loops\obj\Debug\2 - Conditionals Methods Loops.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\IntroToCSharp\2 - Conditionals Methods Loops\obj\Debug\2 - Conditionals Methods Loops.exe
+C:\ElevenFiftyProjects\IntroToCSharp\2 - Conditionals Methods Loops\obj\Debug\2 - Conditionals Methods Loops.pdb
