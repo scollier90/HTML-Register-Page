@@ -2,39 +2,43 @@
 <html lang="en">
 <head>
     <title>Registration</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <nav class="navbar">
         <ul>
-            <li class="navbar-link"><a href="aboutus.html">About Us</a></li>
-            <li class="navbar-link"><a href="register.html">Register</a></li>
+            <li><button id="buttonlink" href="aboutus.html">About Us</button></li>
+            <li><button id="buttonlink" href="register.html">Register</button></li>
         </ul>
     </nav>
 
     <form>
         <fieldset>
-            <h1>Sign Up</h1>
+            <h1 id="heading">Sign Up</h1>
             <p>
-                <input type="email" name="Email" placeholder="Email">
+                <input class="box" type="email" name="Email" placeholder="Email">
             </p>
             <p>
-                <input type="text" name="Username" placeholder="Username">
+                <input class="box" type="text" name="Username" placeholder="Username">
             </p>
             <p>
-                <input type="password" name="Password" placeholder="Password">
+                <input class="box" type="password" name="Password" placeholder="Password">
             </p>
             <p>
-                <input type="password" name="Confirm Password" placeholder="Confirm Password">
+                <input class="box" type="password" name="Confirm Password" placeholder="Confirm Password">
             </p>
             <p>
                 <p><button>Submit</button></p>
             </p>
-                <a id="img" href="http://www.amazon.com"><img src="../HTML Register Page/Register Assests/amazon.jpg" alt="Amazon"></a>
-                <a id="img" href="http://www.facebook.com"><img src="../HTML Register Page/Register Assests/fb.png" alt="Facebook"></a>
-                <a id="img" href="http://www.github.com"><img src="../HTML Register Page/Register Assests/GitHub.png" alt="GitHub"></a>
-                <a id="img" href="http://www.slack.com"><img src="../HTML Register Page/Register Assests/slack.gif" alt="Slack"></a>
-                <a id="img" href="http://www.instagram.com"><img src="../HTML Register Page/Register Assests/insta.jpg" alt="Instragram"></a>
+            <p id="linkimg">
+                <a href="http://www.amazon.com"><img src="../HTML Register Page/Register Assests/amazon.jpg" alt="Amazon"></a>
+                <a href="http://www.facebook.com"><img src="../HTML Register Page/Register Assests/fb.png" alt="Facebook"></a>
+                <a href="http://www.github.com"><img src="../HTML Register Page/Register Assests/GitHub.png" alt="GitHub"></a>
+                <a href="http://www.slack.com"><img src="../HTML Register Page/Register Assests/slack.gif" alt="Slack"></a>
+                <a href="http://www.instagram.com"><img src="../HTML Register Page/Register Assests/insta.jpg" alt="Instragram"></a>
+            </p>
         </fieldset>
     </form>
 </body>
